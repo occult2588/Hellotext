@@ -1,0 +1,15 @@
+git add .
+git commat -m ""
+git status 
+git pull 
+git push -u origin/master
+
+git reset --hard
+
+git reset 
+git reset --hard
+
+git reset --hard origin/master
+
+git reset --hard HEAD^
+git push -f
